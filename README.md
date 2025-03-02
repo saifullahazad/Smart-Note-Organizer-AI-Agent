@@ -28,6 +28,6 @@ Smart Note Organizer is a lightweight, command-line application that leverages A
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/smart-note-organizer.git
-   cd smart-note-organizer
+   git clone https://github.com/yourusername/Smart-Note-Organizer-AI-Agentr.git
+   cd Smart-Note-Organizer-AI-Agentr
 
